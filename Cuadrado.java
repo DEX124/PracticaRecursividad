@@ -1,9 +1,7 @@
 
 /**
- * Write a description of class Cuadrado here.
- *
- * @author (your name)
- * @version (a version number or a date)
+ * @author (Diego Hernández, Daniel Mora Mora)
+ * @version (17-06-21)
  */
 public class Cuadrado
 {

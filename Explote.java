@@ -1,4 +1,7 @@
-
+/**
+ * @author (Diego Hernández, Daniel Mora Mora)
+ * @version (17-06-21)
+ */
 public class Explote
 {
     String result;
