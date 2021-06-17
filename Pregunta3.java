@@ -2,7 +2,7 @@ import java.util.ArrayList;
 /**
  * Write a description of class Pregunta3 here.
  *
- * @author (Diego Hernández Agüero)
+ * @author (Diego Hernández, Daniel Mora Mora)
  * @version (v.1 17/06/2021)
  */
 public class Pregunta3
