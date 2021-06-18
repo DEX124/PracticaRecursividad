@@ -1,6 +1,7 @@
 /**
+ *
  * @author (Diego Hernández, Daniel Mora Mora)
- * @version (17-06-21)
+ * @version (v.1 17/06/2021)
  */
 public class Explote
 {
