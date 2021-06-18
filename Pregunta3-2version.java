@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class InversoSimple
+public class Pregunta3_2version
 {
     String result="";
     public InversoSimple(){
@@ -31,7 +31,7 @@ public class InversoSimple
         }
     }
     public static void main(String a[]){
-        InversoSimple p=new InversoSimple();
+        Pregunta3_2version p=new Pregunta3_2version();
         Scanner sc=new Scanner(System.in);
         System.out.println("Ingrese una hilera de caracteres: ");
         String entrada=sc.nextLine();
