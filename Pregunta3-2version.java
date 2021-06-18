@@ -1,4 +1,9 @@
-
+/**
+ * Write a description of class Pregunta3 here.
+ *
+ * @author (Diego Hernández, Daniel Mora Mora)
+ * @version (v.1 17/06/2021)
+ */
 import java.util.Scanner;
 public class Pregunta3_2version
 {
