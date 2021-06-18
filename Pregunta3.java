@@ -1,7 +1,7 @@
+
 import java.util.ArrayList;
+import java.util.Scanner;
 /**
- * Write a description of class Pregunta3 here.
- *
  * @author (Diego Hernández, Daniel Mora Mora)
  * @version (v.1 17/06/2021)
  */
@@ -30,7 +30,9 @@ public class Pregunta3
     
     public static void main (String args[])
     {
-        String pal = "aaabccdddaaebb";
+        System.out.println("Dé una hilera:");
+        Scanner sc=new Scanner(System.in);
+        String pal = sc.nextLine();
         int i = pal.length();
         ArrayList inversoSimple = new ArrayList();
         
